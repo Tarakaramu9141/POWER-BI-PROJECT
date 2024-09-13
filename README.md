@@ -1,2 +1,2 @@
-# POWER-BI-PROJECT
-MY POWERBI PROJECTS OF THE SURVEY OF PROFESSIONAL JOB PERSON IN THE WORLD
+# POWER-BI-PROJECTs
+This folder contains the projects done by me in power bi.
